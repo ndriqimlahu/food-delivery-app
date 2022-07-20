@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/ndriqimlahu/NdriqimLahuPortfolio/blob/main/assets/portfolio/FoodDeliveryApp.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/FoodDeliveryApp.png" alt="Logo" width="250" height="250">
   <h3 align="center">Food Delivery App</h3>
   <p align="center">
     Ndriçim Lahu
@@ -68,7 +68,7 @@ In order to open this prototype design is required to have an UI/UX Design Tool 
 
 1. Download the code or Clone the repo:
    ```terminal
-   git clone https://github.com/ndriqimlahu/FoodDeliveryApp.git
+   git clone https://github.com/ndriqimlahu/food-delivery-app.git
    ```
 2. Open the repo folder and go to `UI Prototype` folder.
 3. After that use the Adobe XD and open the prototype design by choosing the `UI_Prototype.xd` file.
