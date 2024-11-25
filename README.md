@@ -31,7 +31,7 @@ Before starting, ensure the following is installed on your system:
 - **Adobe XD**
   - Download the [Adobe XD](https://www.adobe.com/products/xd.html).
   - Follow the [installation guide](https://helpx.adobe.com/support/xd.html#troubleshooting) to install and set it up correctly.
-  - An Adobe ID is required to use Adobe XD. While a free account is sufficient for basic design work, some advanced features may require a premium subscription.
+  - An Adobe ID is required. A free account is sufficient for basic design, but some advanced features require a premium subscription.
 
 ## Installation
 
