@@ -7,7 +7,7 @@ This project is designed to offer a seamless and efficient user journey, guiding
 ## Built With
 
 This design prototype was created using the following tool:
-* Adobe XD
+- **Adobe XD**
 
 ## Features
 
@@ -27,9 +27,11 @@ This design prototype was created using the following tool:
 
 ## Prerequisites
 
-Before starting, ensure that the [Adobe XD](https://www.adobe.com/products/xd.html) is installed on your system.
-- Follow the [installation guide](https://helpx.adobe.com/support/xd.html#troubleshooting) to download, install and set it up correctly.
-- An Adobe ID (either free or premium account) is required to access all features.
+Before starting, ensure the following is installed on your system:
+- **Adobe XD**
+  - Download the [Adobe XD](https://www.adobe.com/products/xd.html).
+  - Follow the [installation guide](https://helpx.adobe.com/support/xd.html#troubleshooting) to install and set it up correctly.
+  - An Adobe ID is required to use Adobe XD. While a free account is sufficient for basic design work, some advanced features may require a premium subscription.
 
 ## Installation
 
@@ -38,14 +40,14 @@ Before starting, ensure that the [Adobe XD](https://www.adobe.com/products/xd.ht
    git clone https://github.com/ndriqimlahu/food-delivery-app.git
    ```
 2. Navigate to the repository folder on your local machine.
-3. Open the `UI_Prototype.xd` file located in the `UI Prototype` folder using Adobe XD.
-4. To run the design prototype, click the `Play` button located in the top-right corner of the Adobe XD interface.
+3. Open the `UI_Prototype.xd` file located in the `UI Prototype` folder using **Adobe XD**.
+4. To run the design prototype, click the **Play** button located in the top-right corner of the **Adobe XD** interface.
 
 ## Screenshots
 
 Below you can see some additional useful screenshots of what the design prototype looks like and how it can be used:
 
-* Welcome page | Connect page | Sign up page
+- Welcome page | Connect page | Sign up page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/01-Welcome%20-%20Page.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/02-Connect%20-%20Page.png" align="top" width="32%" height="auto">
@@ -53,7 +55,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Sign up — Confirm and verify with code | Sign up — Signed up successfully | Sign in page
+- Sign up — Confirm and verify with code | Sign up — Signed up successfully | Sign in page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/03.2-Sign%20up%20-%20Confirm%20%26%20Verify.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/03.3-Sign%20up%20-%20Done.png" align="top" width="32%" height="auto">
@@ -61,7 +63,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Sign in — Signed in successfully | Guest page | Guest — Connected as guest successfully
+- Sign in — Signed in successfully | Guest page | Guest — Connected as guest successfully
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/03.5-Sign%20in%20-%20Done.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/03.6-Guest%20-%20Page.png" align="top" width="32%" height="auto">
@@ -69,7 +71,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Home page | Search Products page | Food Categories page
+- Home page | Search Products page | Food Categories page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/04-Home%20-%20Page.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/05-Search%20Products%20-%20Page.png" align="top" width="32%" height="auto">
@@ -77,7 +79,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Products List — Salads | Seafood | Chicken fillet
+- Products List — Salads | Seafood | Chicken fillet
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.2-Products%20List%20-%20Salads.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.4-Products%20List%20-%20Seafood.png" align="top" width="32%" height="auto">
@@ -85,7 +87,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Products List — Steak | Rump steak | Sandwich
+- Products List — Steak | Rump steak | Sandwich
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.8-Products%20List%20-%20Steak.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.10-Products%20List%20-%20Rump%20steak.png" align="top" width="32%" height="auto">
@@ -93,7 +95,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Products List — Risotto | Pasta | Pizza
+- Products List — Risotto | Pasta | Pizza
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.14-Products%20List%20-%20Risotto.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.16-Products%20List%20-%20Pasta.png" align="top" width="32%" height="auto">
@@ -101,7 +103,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Products List — Hamburger | Product Details page | Orders page
+- Products List — Hamburger | Product Details page | Orders page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.20-Products%20List%20-%20Hamburger.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/07.2-Product%20Details%20-%20Page%20%E2%80%93%20Offerings.png" align="top" width="32%" height="auto">
@@ -109,7 +111,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Payment Method — Delivery Address | Payment Method — Credit Card | Purchase Product page
+- Payment Method — Delivery Address | Payment Method — Credit Card | Purchase Product page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.23-Payment%20Method%20-%20Delivery%20Address%20%E2%80%93%20Product.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/06.24-Payment%20Method%20-%20Credit%20Card%20%E2%80%93%20Product.png" align="top" width="32%" height="auto">
@@ -117,7 +119,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Offerings page | About Us page | Contact Us page
+- Offerings page | About Us page | Contact Us page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/07.1-Offerings%20-%20Page.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/08-About%20Us%20-%20Page.png" align="top" width="32%" height="auto">
@@ -125,7 +127,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Contact Us — Contact types | Feedback page | Feedback — Feedback sent successfully
+- Contact Us — Contact types | Feedback page | Feedback — Feedback sent successfully
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/09.2-Contact%20Us%20-%20Type%20of%20Contacts.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/10.1-Feedback%20-%20Page.png" align="top" width="32%" height="auto">
@@ -133,7 +135,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Account page | Account — Changes made successfully | Orders page
+- Account page | Account — Changes made successfully | Orders page
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/11.1-Account%20-%20Page.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/11.4-Account%20-%20Change.png" align="top" width="32%" height="auto">
@@ -141,7 +143,7 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Settings page | Settings — Change Language | Settings — About App
+- Settings page | Settings — Change Language | Settings — About App
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/13.1-Settings%20-%20Page.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/13.2-Settings%20-%20Change%20Language.png" align="top" width="32%" height="auto">
@@ -149,14 +151,14 @@ Below you can see some additional useful screenshots of what the design prototyp
   <hr>
 </div>
 
-* Settings — Help | Settings — Signed out
+- Settings — Help | Settings — Signed out
 <div>
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/13.4-Settings%20-%20Help.png" align="top" width="32%" height="auto">
   <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/13.5-Settings%20-%20Sign%20out.png" align="top" width="32%" height="auto">
   <hr>
 </div>
 
-* Artboards — All pages
+- Artboards — All pages
 <img src="https://raw.githubusercontent.com/ndriqimlahu/food-delivery-app/main/Preview/14-Food%20Delivery%20App%20-%20Artboards%20AIO.png" align="top" width="96%" height="auto">
 
 ## Support
